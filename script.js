@@ -4,7 +4,6 @@ let track = 'https://script.google.com/macros/s/AKfycbynnLvOTPI0EUY3edLU3ZcPzygn
 
 
 
-
 // Start Validation form
 let formContent = document.getElementById('form');
 let nameArabic = document.getElementById('personalNameArabic');
